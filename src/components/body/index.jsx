@@ -98,8 +98,8 @@ const Body = () => {
           <div className="timeline-card timeline-card-primary card shadow-sm">
             <div className="card-body">
               <div className="h5 mb-1">Frontend Developer <span className="text-muted h6"></span></div>
-              <div className="text-muted text-small mb-2">May, 2015 - Present</div>
-              <div>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</div>
+              <div className="text-muted text-small mb-2"></div>
+              <div>Work closely with the team on using front-end frameworks such as React.js and Implement front-end development best practices to ensure high code quality and maintainability.</div>
             </div>
           </div>
           <div className="timeline-card timeline-card-primary card shadow-sm">
